@@ -11,8 +11,8 @@
 ## 5 Rules to participate
 
 1. You are/were here, in the event.
-2. make a PR to this repo with a file _<your_github_user>.md_ which conteins a link to your PR.
-3. PR should be accepted for the owners of this repo.
-4. if you have more PR to submit us, you can add their links in the same file requesting more PRs.
+2. Make a PR to this repo with a file _<your_github_user>.md_ which contains a link to your PR.
+3. PR should be accepted by the owners of this repo.
+4. If you have more PRs to submit us, you can add their links in the same file requesting more PRs.
 4. Enjoy is a must!
 
