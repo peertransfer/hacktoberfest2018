@@ -1,5 +1,8 @@
 # Hacktoberfest 2018 at FLYWIRE
 
+![Hacktoberfest Logo](https://d2z6c3c3r6k4bx.cloudfront.net/uploads/event/logo/1071965/d031cd0964e1d012ad5377d3f970285d.png)
+![Flywire Logo](https://flystyles.netlify.com/images/flywire-logo.png)
+
 ## Prizes
 
 | PR of the night | Prize |
